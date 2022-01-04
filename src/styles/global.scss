@@ -157,9 +157,10 @@ hr {
 
 .card:hover {
     margin:15px;
+    transition:0.6s ease;
     > .card-image {
         filter: brightness(100%);
-        transition: 1s ease;
+        transition: 0.6s ease;
     }
 }
 
@@ -249,6 +250,8 @@ span.color6 {
           
   > .link1 {
     margin-right: 50px;
+    position:relative;
+    right:11px;
   }
   > p {
   color:$color3;

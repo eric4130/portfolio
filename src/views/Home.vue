@@ -5,13 +5,11 @@
                 <img class="mainlogo" src='../assets/logo.png'>
             </div>
             <div class="column">
-                <h1 class="main"> <hr class="linkhr"> <a href="https://www.facebook.com/Therapeutic-Waves-Massage-103002701456051" class="link1" target="_blank"><span class="icon">
-                  <i class="fab iconlinks fa-facebook"></i>
-                </span></a>
-                 <a href="https://www.facebook.com/Therapeutic-Waves-Massage-103002701456051"  class="links" target="_blank"><span class="icon">
+                <h1 class="main"> <hr class="linkhr">
+                 <a href="https://github.com/eric4130?tab=repositories"  class="links" target="_blank"><span class="icon">
                   <i class="fab iconlinks fa-github"></i>
                 </span></a>
-                 <a href="https://www.facebook.com/Therapeutic-Waves-Massage-103002701456051" class="links" target="_blank"><span class="icon">
+                 <a href="https://www.linkedin.com/in/eric-smrdel-ba621b1aa/" class="links" target="_blank"><span class="icon">
                   <i class="fab iconlinks fa-linkedin"></i>
                 </span></a>
                     <br>Hi, I'm Eric Smrdel. <br> Web Developer, <br> Student & Musician </h1>
@@ -97,13 +95,10 @@
                     <p class="h2text" style="text-align:center;">Or send a message directly through the form below:</p>
                     <EmailJS />
                     <div class="footer-bottom has-text-centered">
-            <a href="https://www.facebook.com/Therapeutic-Waves-Massage-103002701456051" class="link1" target="_blank"><span class="icon">
+            <a href="https://github.com/eric4130?tab=repositories" class="link1" target="_blank"><span class="icon">
                   <i class="fab fa-github"></i>
                 </span></a>
-                <a href="https://www.facebook.com/Therapeutic-Waves-Massage-103002701456051" class="link1" target="_blank"><span class="icon">
-                  <i class="fab fa-facebook"></i>
-                </span></a>
-           <a href="https://www.instagram.com/therapeuticwavesmassage/" target="_blank"><span class="icon">
+           <a href="https://www.linkedin.com/in/eric-smrdel-ba621b1aa/" target="_blank"><span class="icon">
                   <i class="fab fa-linkedin"></i>
                 </span></a>
             <p>Copyright &#9400; 2022 Esco Web Industries, LLC</p>
