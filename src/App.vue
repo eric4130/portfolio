@@ -6,5 +6,6 @@
 
 
 <style lang="scss">
+@import '../node_modules/bulma';
 @import './styles/global';
 </style>
