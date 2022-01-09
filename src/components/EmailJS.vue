@@ -46,6 +46,17 @@ export default {
   methods: {
     sendEmail() {
       try {
+        if (this.user_name == ''|| this.user_email == '' || this.message==''){
+          toast({
+                message: 'Finish filling out the form!',
+                type: 'is-danger',
+                dismissible: true,
+                pauseOnHover: true,
+                duration: 5000,
+                position: 'center',
+            })
+          return
+        } else {
         emailjs.sendForm('contact_service2', 'contact_form2', this.$refs.form,
         'user_uKgW0D0y2h4gVWiwAdz5T', {
           user_name: this.user_name,
@@ -60,7 +71,7 @@ export default {
                 duration: 5000,
                 position: 'center',
             })
-
+        }
       } catch(error) {
           console.log({error})
 
@@ -77,7 +88,7 @@ export default {
       this.user_name = ''
       this.user_email = ''
       this.message = ''
-    },
+    }
   },
 }
 </script>
