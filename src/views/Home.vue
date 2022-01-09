@@ -1,5 +1,7 @@
 <template>
 <div>
+
+    <!-- Header -->
         <div class="columns">
             <div class="column is-narrow">
                 <img class="mainlogo" src='../assets/logo.png'>
@@ -76,6 +78,7 @@
 <!-- Projects Component-->
 <Projects />
 
+<!-- Footer -->
         <div class="columns">
             <div class="column is-12">
                 <h1 class="skillsheader">Let's 
